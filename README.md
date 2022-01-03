@@ -2,8 +2,6 @@
 
 #### Make API calls more consistent throughout the whole application with concise, clean, and reusable code
 
-In the project directory, you can run:
-
 ### `npm start`
 
 Runs the app in the development mode.\
